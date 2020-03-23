@@ -1,0 +1,23 @@
+{
+  "name": "SemanaOmnistack11",
+  "version": "1.0.0",
+  "description": "SemanaOmnistack11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrCrowley616/SemanaOmnistack11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrCrowley616/SemanaOmnistack11/issues"
+  },
+  "homepage": "https://github.com/MrCrowley616/SemanaOmnistack11#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
